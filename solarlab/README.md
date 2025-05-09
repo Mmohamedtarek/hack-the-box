@@ -1,5 +1,5 @@
 
-# 🌞 HackTheBox - SolarLab W
+# 🌞 HackTheBox - SolarLab 
 
 This is a walkthrough of the HTB machine **SolarLab**, where I gained root access by chaining multiple vulnerabilities and using port forwarding techniques. The machine offered a good mix of enumeration, exploitation via known CVEs, and privilege escalation through misconfigured services.
 
@@ -116,7 +116,7 @@ But command execution was restricted. So I reused the PowerShell reverse shell f
 
 ✅ This time, I got a reverse shell as Administrator.
 
-## 🏁 Summarryy
+## 🏁 Summarry
 Stage	Access Achieved
 SMB	Usernames + passwords
 Web App (6791)	Login as BlakeB

@@ -145,3 +145,5 @@ netcat
 Cookie Editor Extension
 
 crackstation.net
+
+https://www.hackthebox.com/achievement/machine/1953678/596
